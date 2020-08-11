@@ -1,0 +1,6 @@
+2019-02-28T13:40:12+00:00 CRITICAL syntax error, unexpected end of file in C:\www\alavion\wp-content\themes\alavion\inc\woocommerce.php on line 361
+
+2019-02-28T13:40:26+00:00 CRITICAL syntax error, unexpected end of file in C:\www\alavion\wp-content\themes\alavion\inc\woocommerce.php on line 361
+
+2019-02-28T18:04:36+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) in C:\www\alavion\wp-content\plugins\lt-ext\shortcodes\services\view.php on line 184
+

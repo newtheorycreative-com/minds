@@ -1,0 +1,23 @@
+2019-04-17T18:03:25+00:00 CRITICAL Uncaught Error: Call to a member function get_queried_object_id() on null in C:\www\brewis\wp-content\themes\brewis\page.php:22
+Stack trace:
+#0 C:\www\brewis\wp-includes\class-wp-hook.php(286): {closure}(Array)
+#1 C:\www\brewis\wp-includes\plugin.php(208): WP_Hook->apply_filters(Array, Array)
+#2 C:\www\brewis\wp-content\themes\brewis\page.php(30): apply_filters('brewis_current_...', Array)
+#3 C:\www\brewis\wp-includes\template.php(706): require('C:\\www\\brewis\\w...')
+#4 C:\www\brewis\wp-includes\template.php(653): load_template('C:\\www\\brewis/w...', false)
+#5 C:\www\brewis\wp-includes\general-template.php(157): locate_template(Array, true, false)
+#6 C:\www\brewis\wp-content\themes\brewis\page-templates\full-width.php(6): get_template_part('page')
+#7 C:\www\brewis\wp-includes\template-loader.php(77): include('C:\\www\\brewis\\w...')
+#8 C:\www\brewis\wp-blog-header.php(19): require_once('C:\\www\\brewis\\w...')
+#9 C:\www\brewis\index.php(17): require('C:\\www\\brewis\\w...')
+#10 {main}
+  thrown in C:\www\brewis\wp-content\themes\brewis\page.php on line 22
+
+2019-04-17T22:39:17+00:00 CRITICAL syntax error, unexpected ';' in C:\www\brewis\wp-content\themes\brewis\inc\theme-config.php on line 216
+
+2019-04-17T22:39:23+00:00 CRITICAL syntax error, unexpected ';' in C:\www\brewis\wp-content\themes\brewis\inc\theme-config.php on line 216
+
+2019-04-17T22:39:33+00:00 CRITICAL syntax error, unexpected ';' in C:\www\brewis\wp-content\themes\brewis\inc\theme-config.php on line 216
+
+2019-04-17T22:39:43+00:00 CRITICAL syntax error, unexpected ';' in C:\www\brewis\wp-content\themes\brewis\inc\theme-config.php on line 216
+

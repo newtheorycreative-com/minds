@@ -1,0 +1,12 @@
+2019-04-20T23:04:30+00:00 CRITICAL Uncaught Error: Call to undefined function likeGetMenuCats() in C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\view.php:16
+Stack trace:
+#0 C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\shortcodes.php(576): include()
+#1 C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\menu.php(53): like_sc_output('menu', Array, '')
+#2 C:\www\brewis\wp-includes\shortcodes.php(325): ltx_sc_menu(Array, '', 'ltx_sc_menu')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 C:\www\brewis\wp-includes\shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(ltx_sc...', 'do_shortcode_ta...', '[ltx_sc_menu ca...')
+#5 C:\www\brewis\wp-content\plugins\js_composer\include\helpers\helpers.php(236): do_shortcode('[ltx_sc_menu ca...')
+#6 C:\www\brewis\wp-content\plugins\js_composer\include\templates\shortcodes\vc_column.php(94): wpb_js_remove_wpautop('[ltx_sc_menu ca...')
+#7 C:\www\brewis\wp-content\plugins\js_composer\include\classes\shortcodes\shortcodes.php(478): include('C:\\www\\brewis\\w...')
+#8 C:\www\brewis\wp-conte in C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\view.php on line 16
+

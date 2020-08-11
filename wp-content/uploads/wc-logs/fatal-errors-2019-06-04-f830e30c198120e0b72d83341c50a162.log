@@ -1,0 +1,14 @@
+2019-06-04T17:20:14+00:00 CRITICAL syntax error, unexpected end of file in C:\www\hub2b\wp-content\plugins\lt-ext\shortcodes\button\view.php on line 46
+
+2019-06-04T17:20:19+00:00 CRITICAL syntax error, unexpected end of file in C:\www\hub2b\wp-content\plugins\lt-ext\shortcodes\button\view.php on line 46
+
+2019-06-04T19:06:44+00:00 CRITICAL syntax error, unexpected ')' in C:\www\hub2b\wp-content\plugins\lt-ext\shortcodes\header\view.php on line 92
+
+2019-06-04T19:28:36+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Vc_Edit_Form_Fields::setSettings() must be of the type array, string given, called in C:\www\hub2b\wp-content\plugins\js_composer\include\params\param_group\param_group.php on line 21 and defined in C:\www\hub2b\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php:72
+Stack trace:
+#0 C:\www\hub2b\wp-content\plugins\js_composer\include\params\param_group\param_group.php(21): Vc_Edit_Form_Fields->setSettings('l{\\"type\\":\\"pa...')
+#1 C:\www\hub2b\wp-content\plugins\js_composer\include\params\param_group\param_group.php(201): Vc_ParamGroup_Edit_Form_Fields->__construct('l{\\"type\\":\\"pa...')
+#2 C:\www\hub2b\wp-content\plugins\js_composer\include\params\param_group\param_group.php(185): vc_param_group_clone_by_data('like_sc_block_i...', 'l{\\"type\\":\\"pa...', '"%255B%257B%252...')
+#3 C:\www\hub2b\wp-includes\class-wp-hook.php(286): vc_param_group_clone('')
+#4 C:\www\hub2b\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Ar in C:\www\hub2b\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php on line 72
+

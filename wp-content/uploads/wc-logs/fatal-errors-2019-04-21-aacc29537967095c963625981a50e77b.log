@@ -1,0 +1,4 @@
+2019-04-21T15:03:54+00:00 CRITICAL syntax error, unexpected ''ltx-products-hide-price'' (T_CONSTANT_ENCAPSED_STRING) in C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\products\view.php on line 43
+
+2019-04-21T15:47:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\www\brewis\wp-includes\plugin.php on line 133
+

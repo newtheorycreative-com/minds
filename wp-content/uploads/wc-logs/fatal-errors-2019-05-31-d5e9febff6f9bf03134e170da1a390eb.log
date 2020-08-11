@@ -1,0 +1,12 @@
+2019-05-31T19:46:11+00:00 CRITICAL syntax error, unexpected '83.38' (T_DNUMBER), expecting ',' or ';' in C:\www\windazo\wp-content\plugins\lt-ext\shortcodes\slider_full_2\view.php on line 126
+
+2019-05-31T19:46:21+00:00 CRITICAL syntax error, unexpected '0' (T_LNUMBER), expecting ',' or ';' in C:\www\windazo\wp-content\plugins\lt-ext\shortcodes\slider_full_2\view.php on line 126
+
+2019-05-31T21:08:49+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Vc_Edit_Form_Fields::setSettings() must be of the type array, string given, called in C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php on line 21 and defined in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php:72
+Stack trace:
+#0 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(21): Vc_Edit_Form_Fields->setSettings('l{\\"type\\":\\"pa...')
+#1 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(201): Vc_ParamGroup_Edit_Form_Fields->__construct('l{\\"type\\":\\"pa...')
+#2 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(185): vc_param_group_clone_by_data('like_sc_slider_...', 'l{\\"type\\":\\"pa...', '"%255B%257B%252...')
+#3 C:\www\windazo\wp-includes\class-wp-hook.php(286): vc_param_group_clone('')
+#4 C:\www\windazo\wp-includes\class-wp-hook.php(310): WP_Hook->apply_ in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php on line 72
+

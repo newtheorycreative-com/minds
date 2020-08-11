@@ -1,0 +1,16 @@
+2019-02-01T21:34:54+00:00 CRITICAL Uncaught Error: Call to a member function get_queried_object_id() on null in C:\www\sana\wp-content\themes\sana\functions.php:854
+Stack trace:
+#0 C:\www\sana\wp-content\themes\sana\tmpl\pageheader.php(3): sana_get_pageheader_wrapper()
+#1 C:\www\sana\wp-includes\template.php(690): require('C:\\www\\sana\\wp-...')
+#2 C:\www\sana\wp-includes\template.php(647): load_template('C:\\www\\sana/wp-...', false)
+#3 C:\www\sana\wp-includes\general-template.php(155): locate_template(Array, true, false)
+#4 C:\www\sana\wp-content\themes\sana\header.php(20): get_template_part('tmpl/pageheader')
+#5 C:\www\sana\wp-includes\template.php(688): require_once('C:\\www\\sana\\wp-...')
+#6 C:\www\sana\wp-includes\template.php(647): load_template('C:\\www\\sana/wp-...', true)
+#7 C:\www\sana\wp-includes\general-template.php(41): locate_template(Array, true)
+#8 C:\www\sana\wp-content\themes\sana\page.php(44): get_header()
+#9 C:\www\sana\wp-includes\template.php(690): require('C:\\www\\sana\\wp-...')
+#10 C:\www\sana\wp-includes\template.p in C:\www\sana\wp-content\themes\sana\functions.php on line 854
+
+2019-02-01T21:36:04+00:00 CRITICAL syntax error, unexpected 'if' (T_IF) in C:\www\sana\wp-content\themes\sana\functions.php on line 862
+

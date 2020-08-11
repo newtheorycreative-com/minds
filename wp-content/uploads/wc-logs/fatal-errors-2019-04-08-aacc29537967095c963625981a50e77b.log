@@ -1,0 +1,12 @@
+2019-04-08T16:59:22+00:00 CRITICAL Uncaught Error: Call to undefined function alavion_is_vc() in C:\www\brewis\wp-content\themes\brewis\inc\visualcomposer\visualcomposer.php:6
+Stack trace:
+#0 C:\www\brewis\wp-content\themes\brewis\functions.php(1020): require_once()
+#1 C:\www\brewis\wp-settings.php(443): include('C:\\www\\brewis\\w...')
+#2 C:\www\brewis\wp-config.php(89): require_once('C:\\www\\brewis\\w...')
+#3 C:\www\brewis\wp-load.php(37): require_once('C:\\www\\brewis\\w...')
+#4 C:\www\brewis\wp-admin\admin-ajax.php(22): require_once('C:\\www\\brewis\\w...')
+#5 {main}
+  thrown in C:\www\brewis\wp-content\themes\brewis\inc\visualcomposer\visualcomposer.php on line 6
+
+2019-04-08T20:26:25+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\www\brewis\wp-content\themes\brewis\tmpl\post-formats\list.php on line 84
+

@@ -1,0 +1,13 @@
+2019-02-03T10:39:58+00:00 CRITICAL Uncaught Error: Call to undefined function submit_button() in C:\www\sana\wp-admin\includes\file.php:1767
+Stack trace:
+#0 C:\www\sana\wp-content\plugins\lt-ext\inc\functions.php(586): request_filesystem_credentials('themes.php?page...', 'ftpsockets', false, false, Array)
+#1 C:\www\sana\wp-includes\class-wp-hook.php(286): ltx_wp_filesystem('')
+#2 C:\www\sana\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 C:\www\sana\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\www\sana\wp-settings.php(451): do_action('after_setup_the...')
+#5 C:\www\sana\wp-config.php(89): require_once('C:\\www\\sana\\wp-...')
+#6 C:\www\sana\wp-load.php(37): require_once('C:\\www\\sana\\wp-...')
+#7 C:\www\sana\wp-admin\admin-ajax.php(22): require_once('C:\\www\\sana\\wp-...')
+#8 {main}
+  thrown in C:\www\sana\wp-admin\includes\file.php on line 1767
+

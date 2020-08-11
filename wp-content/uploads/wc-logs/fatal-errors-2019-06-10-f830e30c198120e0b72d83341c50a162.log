@@ -1,0 +1,28 @@
+2019-06-10T22:31:55+00:00 CRITICAL Uncaught Error: Call to undefined function ltxGetPortfolioCats() in C:\www\hub2b\wp-content\plugins\lt-ext\shortcodes\portfolio\portfolio.php:12
+Stack trace:
+#0 C:\www\hub2b\wp-content\plugins\lt-ext\shortcodes\portfolio\portfolio.php(141): ltx_vc_portfolio_params()
+#1 C:\www\hub2b\wp-includes\class-wp-hook.php(286): ltx_vc_portfolio_add('')
+#2 C:\www\hub2b\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\www\hub2b\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#4 C:\www\hub2b\wp-content\plugins\js_composer\include\classes\core\class-vc-manager.php(227): do_action('vc_before_init')
+#5 C:\www\hub2b\wp-includes\class-wp-hook.php(286): Vc_Manager->init('')
+#6 C:\www\hub2b\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 C:\www\hub2b\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#8 C:\www\hub2b\wp-settings.php(525): do_action('init')
+#9 C:\www\hub2b\wp-config.php(90): require_once('C:\\www\\hub2b\\wp...')
+#10 C:\www\hub2b\wp-load.php(37): req in C:\www\hub2b\wp-content\plugins\lt-ext\shortcodes\portfolio\portfolio.php on line 12
+
+2019-06-10T22:31:59+00:00 CRITICAL Uncaught Error: Call to undefined function ltxGetPortfolioCats() in C:\www\hub2b\wp-content\plugins\lt-ext\shortcodes\portfolio\portfolio.php:12
+Stack trace:
+#0 C:\www\hub2b\wp-content\plugins\lt-ext\shortcodes\portfolio\portfolio.php(141): ltx_vc_portfolio_params()
+#1 C:\www\hub2b\wp-includes\class-wp-hook.php(286): ltx_vc_portfolio_add('')
+#2 C:\www\hub2b\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\www\hub2b\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#4 C:\www\hub2b\wp-content\plugins\js_composer\include\classes\core\class-vc-manager.php(227): do_action('vc_before_init')
+#5 C:\www\hub2b\wp-includes\class-wp-hook.php(286): Vc_Manager->init('')
+#6 C:\www\hub2b\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 C:\www\hub2b\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#8 C:\www\hub2b\wp-settings.php(525): do_action('init')
+#9 C:\www\hub2b\wp-config.php(90): require_once('C:\\www\\hub2b\\wp...')
+#10 C:\www\hub2b\wp-load.php(37): req in C:\www\hub2b\wp-content\plugins\lt-ext\shortcodes\portfolio\portfolio.php on line 12
+

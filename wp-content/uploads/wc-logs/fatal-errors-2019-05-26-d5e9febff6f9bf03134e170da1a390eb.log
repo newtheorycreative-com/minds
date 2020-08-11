@@ -1,0 +1,134 @@
+2019-05-26T15:06:03+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Vc_Edit_Form_Fields::setSettings() must be of the type array, string given, called in C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php on line 21 and defined in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php:72
+Stack trace:
+#0 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(21): Vc_Edit_Form_Fields->setSettings('l{\\"type\\":\\"pa...')
+#1 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(201): Vc_ParamGroup_Edit_Form_Fields->__construct('l{\\"type\\":\\"pa...')
+#2 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(185): vc_param_group_clone_by_data('like_sc_partner...', 'l{\\"type\\":\\"pa...', '"%255B%257B%252...')
+#3 C:\www\windazo\wp-includes\class-wp-hook.php(286): vc_param_group_clone('')
+#4 C:\www\windazo\wp-includes\class-wp-hook.php(310): WP_Hook->apply_ in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php on line 72
+
+2019-05-26T15:06:05+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Vc_Edit_Form_Fields::setSettings() must be of the type array, string given, called in C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php on line 21 and defined in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php:72
+Stack trace:
+#0 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(21): Vc_Edit_Form_Fields->setSettings('l{\\"type\\":\\"pa...')
+#1 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(201): Vc_ParamGroup_Edit_Form_Fields->__construct('l{\\"type\\":\\"pa...')
+#2 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(185): vc_param_group_clone_by_data('like_sc_partner...', 'l{\\"type\\":\\"pa...', '"%255B%257B%252...')
+#3 C:\www\windazo\wp-includes\class-wp-hook.php(286): vc_param_group_clone('')
+#4 C:\www\windazo\wp-includes\class-wp-hook.php(310): WP_Hook->apply_ in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php on line 72
+
+2019-05-26T15:06:06+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Vc_Edit_Form_Fields::setSettings() must be of the type array, string given, called in C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php on line 21 and defined in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php:72
+Stack trace:
+#0 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(21): Vc_Edit_Form_Fields->setSettings('l{\\"type\\":\\"pa...')
+#1 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(201): Vc_ParamGroup_Edit_Form_Fields->__construct('l{\\"type\\":\\"pa...')
+#2 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(185): vc_param_group_clone_by_data('like_sc_partner...', 'l{\\"type\\":\\"pa...', '"%255B%257B%252...')
+#3 C:\www\windazo\wp-includes\class-wp-hook.php(286): vc_param_group_clone('')
+#4 C:\www\windazo\wp-includes\class-wp-hook.php(310): WP_Hook->apply_ in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php on line 72
+
+2019-05-26T15:06:08+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Vc_Edit_Form_Fields::setSettings() must be of the type array, string given, called in C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php on line 21 and defined in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php:72
+Stack trace:
+#0 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(21): Vc_Edit_Form_Fields->setSettings('l{\\"type\\":\\"pa...')
+#1 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(201): Vc_ParamGroup_Edit_Form_Fields->__construct('l{\\"type\\":\\"pa...')
+#2 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(185): vc_param_group_clone_by_data('like_sc_partner...', 'l{\\"type\\":\\"pa...', '"%255B%257B%252...')
+#3 C:\www\windazo\wp-includes\class-wp-hook.php(286): vc_param_group_clone('')
+#4 C:\www\windazo\wp-includes\class-wp-hook.php(310): WP_Hook->apply_ in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php on line 72
+
+2019-05-26T15:06:09+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Vc_Edit_Form_Fields::setSettings() must be of the type array, string given, called in C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php on line 21 and defined in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php:72
+Stack trace:
+#0 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(21): Vc_Edit_Form_Fields->setSettings('l{\\"type\\":\\"pa...')
+#1 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(201): Vc_ParamGroup_Edit_Form_Fields->__construct('l{\\"type\\":\\"pa...')
+#2 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(185): vc_param_group_clone_by_data('like_sc_partner...', 'l{\\"type\\":\\"pa...', '"%255B%257B%252...')
+#3 C:\www\windazo\wp-includes\class-wp-hook.php(286): vc_param_group_clone('')
+#4 C:\www\windazo\wp-includes\class-wp-hook.php(310): WP_Hook->apply_ in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php on line 72
+
+2019-05-26T15:06:15+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Vc_Edit_Form_Fields::setSettings() must be of the type array, string given, called in C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php on line 21 and defined in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php:72
+Stack trace:
+#0 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(21): Vc_Edit_Form_Fields->setSettings('l{\\"type\\":\\"pa...')
+#1 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(201): Vc_ParamGroup_Edit_Form_Fields->__construct('l{\\"type\\":\\"pa...')
+#2 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(185): vc_param_group_clone_by_data('like_sc_partner...', 'l{\\"type\\":\\"pa...', '"%255B%257B%252...')
+#3 C:\www\windazo\wp-includes\class-wp-hook.php(286): vc_param_group_clone('')
+#4 C:\www\windazo\wp-includes\class-wp-hook.php(310): WP_Hook->apply_ in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php on line 72
+
+2019-05-26T15:06:16+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Vc_Edit_Form_Fields::setSettings() must be of the type array, string given, called in C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php on line 21 and defined in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php:72
+Stack trace:
+#0 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(21): Vc_Edit_Form_Fields->setSettings('l{\\"type\\":\\"pa...')
+#1 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(201): Vc_ParamGroup_Edit_Form_Fields->__construct('l{\\"type\\":\\"pa...')
+#2 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(185): vc_param_group_clone_by_data('like_sc_partner...', 'l{\\"type\\":\\"pa...', '"%255B%257B%252...')
+#3 C:\www\windazo\wp-includes\class-wp-hook.php(286): vc_param_group_clone('')
+#4 C:\www\windazo\wp-includes\class-wp-hook.php(310): WP_Hook->apply_ in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php on line 72
+
+2019-05-26T15:06:23+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Vc_Edit_Form_Fields::setSettings() must be of the type array, string given, called in C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php on line 21 and defined in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php:72
+Stack trace:
+#0 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(21): Vc_Edit_Form_Fields->setSettings('l{\\"type\\":\\"pa...')
+#1 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(201): Vc_ParamGroup_Edit_Form_Fields->__construct('l{\\"type\\":\\"pa...')
+#2 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(185): vc_param_group_clone_by_data('like_sc_partner...', 'l{\\"type\\":\\"pa...', '"%255B%257B%252...')
+#3 C:\www\windazo\wp-includes\class-wp-hook.php(286): vc_param_group_clone('')
+#4 C:\www\windazo\wp-includes\class-wp-hook.php(310): WP_Hook->apply_ in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php on line 72
+
+2019-05-26T15:06:23+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Vc_Edit_Form_Fields::setSettings() must be of the type array, string given, called in C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php on line 21 and defined in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php:72
+Stack trace:
+#0 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(21): Vc_Edit_Form_Fields->setSettings('l{\\"type\\":\\"pa...')
+#1 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(201): Vc_ParamGroup_Edit_Form_Fields->__construct('l{\\"type\\":\\"pa...')
+#2 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(185): vc_param_group_clone_by_data('like_sc_partner...', 'l{\\"type\\":\\"pa...', '"%255B%257B%252...')
+#3 C:\www\windazo\wp-includes\class-wp-hook.php(286): vc_param_group_clone('')
+#4 C:\www\windazo\wp-includes\class-wp-hook.php(310): WP_Hook->apply_ in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php on line 72
+
+2019-05-26T15:06:24+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Vc_Edit_Form_Fields::setSettings() must be of the type array, string given, called in C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php on line 21 and defined in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php:72
+Stack trace:
+#0 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(21): Vc_Edit_Form_Fields->setSettings('l{\\"type\\":\\"pa...')
+#1 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(201): Vc_ParamGroup_Edit_Form_Fields->__construct('l{\\"type\\":\\"pa...')
+#2 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(185): vc_param_group_clone_by_data('like_sc_partner...', 'l{\\"type\\":\\"pa...', '"%255B%257B%252...')
+#3 C:\www\windazo\wp-includes\class-wp-hook.php(286): vc_param_group_clone('')
+#4 C:\www\windazo\wp-includes\class-wp-hook.php(310): WP_Hook->apply_ in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php on line 72
+
+2019-05-26T15:06:25+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Vc_Edit_Form_Fields::setSettings() must be of the type array, string given, called in C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php on line 21 and defined in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php:72
+Stack trace:
+#0 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(21): Vc_Edit_Form_Fields->setSettings('l{\\"type\\":\\"pa...')
+#1 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(201): Vc_ParamGroup_Edit_Form_Fields->__construct('l{\\"type\\":\\"pa...')
+#2 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(185): vc_param_group_clone_by_data('like_sc_partner...', 'l{\\"type\\":\\"pa...', '"%255B%257B%252...')
+#3 C:\www\windazo\wp-includes\class-wp-hook.php(286): vc_param_group_clone('')
+#4 C:\www\windazo\wp-includes\class-wp-hook.php(310): WP_Hook->apply_ in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php on line 72
+
+2019-05-26T15:06:37+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Vc_Edit_Form_Fields::setSettings() must be of the type array, string given, called in C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php on line 21 and defined in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php:72
+Stack trace:
+#0 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(21): Vc_Edit_Form_Fields->setSettings('l{\\"type\\":\\"pa...')
+#1 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(201): Vc_ParamGroup_Edit_Form_Fields->__construct('l{\\"type\\":\\"pa...')
+#2 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(185): vc_param_group_clone_by_data('like_sc_partner...', 'l{\\"type\\":\\"pa...', '"%255B%257B%252...')
+#3 C:\www\windazo\wp-includes\class-wp-hook.php(286): vc_param_group_clone('')
+#4 C:\www\windazo\wp-includes\class-wp-hook.php(310): WP_Hook->apply_ in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php on line 72
+
+2019-05-26T17:29:25+00:00 CRITICAL syntax error, unexpected '=' in C:\www\windazo\wp-content\themes\windazo\inc\template-parts.php on line 1146
+
+2019-05-26T17:57:03+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Vc_Edit_Form_Fields::setSettings() must be of the type array, string given, called in C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php on line 21 and defined in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php:72
+Stack trace:
+#0 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(21): Vc_Edit_Form_Fields->setSettings('l{\\"type\\":\\"pa...')
+#1 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(201): Vc_ParamGroup_Edit_Form_Fields->__construct('l{\\"type\\":\\"pa...')
+#2 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(185): vc_param_group_clone_by_data('like_sc_block_i...', 'l{\\"type\\":\\"pa...', '"%255B%257B%252...')
+#3 C:\www\windazo\wp-includes\class-wp-hook.php(286): vc_param_group_clone('')
+#4 C:\www\windazo\wp-includes\class-wp-hook.php(310): WP_Hook->apply_ in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php on line 72
+
+2019-05-26T19:12:19+00:00 CRITICAL syntax error, unexpected ',' in C:\www\windazo\wp-content\themes\windazo\inc\fw\theme\options\posts\services.php on line 35
+
+2019-05-26T19:12:20+00:00 CRITICAL syntax error, unexpected ',' in C:\www\windazo\wp-content\themes\windazo\inc\fw\theme\options\posts\services.php on line 35
+
+2019-05-26T19:12:35+00:00 CRITICAL syntax error, unexpected ',' in C:\www\windazo\wp-content\themes\windazo\inc\fw\theme\options\posts\services.php on line 35
+
+2019-05-26T20:02:51+00:00 CRITICAL syntax error, unexpected 'if' (T_IF), expecting ':' in C:\www\windazo\wp-content\plugins\lt-ext\shortcodes\services\view.php on line 105
+
+2019-05-26T20:03:07+00:00 CRITICAL syntax error, unexpected end of file in C:\www\windazo\wp-content\plugins\lt-ext\shortcodes\services\view.php on line 127
+
+2019-05-26T20:03:46+00:00 CRITICAL syntax error, unexpected end of file in C:\www\windazo\wp-content\plugins\lt-ext\shortcodes\services\view.php on line 127
+
+2019-05-26T22:38:53+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Vc_Edit_Form_Fields::setSettings() must be of the type array, string given, called in C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php on line 21 and defined in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php:72
+Stack trace:
+#0 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(21): Vc_Edit_Form_Fields->setSettings('l{\\"type\\":\\"pa...')
+#1 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(201): Vc_ParamGroup_Edit_Form_Fields->__construct('l{\\"type\\":\\"pa...')
+#2 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(185): vc_param_group_clone_by_data('like_sc_block_i...', 'l{\\"type\\":\\"pa...', '"%255B%257B%252...')
+#3 C:\www\windazo\wp-includes\class-wp-hook.php(286): vc_param_group_clone('')
+#4 C:\www\windazo\wp-includes\class-wp-hook.php(310): WP_Hook->apply_ in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php on line 72
+
+2019-05-26T22:38:54+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Vc_Edit_Form_Fields::setSettings() must be of the type array, string given, called in C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php on line 21 and defined in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php:72
+Stack trace:
+#0 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(21): Vc_Edit_Form_Fields->setSettings('l{\\"type\\":\\"pa...')
+#1 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(201): Vc_ParamGroup_Edit_Form_Fields->__construct('l{\\"type\\":\\"pa...')
+#2 C:\www\windazo\wp-content\plugins\js_composer\include\params\param_group\param_group.php(185): vc_param_group_clone_by_data('like_sc_block_i...', 'l{\\"type\\":\\"pa...', '"%255B%257B%252...')
+#3 C:\www\windazo\wp-includes\class-wp-hook.php(286): vc_param_group_clone('')
+#4 C:\www\windazo\wp-includes\class-wp-hook.php(310): WP_Hook->apply_ in C:\www\windazo\wp-content\plugins\js_composer\include\classes\editors\class-vc-edit-form-fields.php on line 72
+

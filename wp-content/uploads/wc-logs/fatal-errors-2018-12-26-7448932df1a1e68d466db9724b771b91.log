@@ -1,0 +1,56 @@
+2018-12-26T02:57:48+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function apply_filters(), 1 passed in C:\www\lamaro\wp-content\themes\lamaro\inc\woocommerce.php on line 90 and exactly 2 expected in C:\www\lamaro\wp-includes\plugin.php:176
+Stack trace:
+#0 C:\www\lamaro\wp-content\themes\lamaro\inc\woocommerce.php(90): apply_filters('woocommerce_loo...')
+#1 C:\www\lamaro\wp-includes\class-wp-hook.php(286): lamaro_woocommerce_item_wrapper_start('')
+#2 C:\www\lamaro\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 C:\www\lamaro\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\www\lamaro\wp-content\plugins\woocommerce\templates\content-product.php(42): do_action('woocommerce_bef...')
+#5 C:\www\lamaro\wp-includes\template.php(690): require('C:\\www\\lamaro\\w...')
+#6 C:\www\lamaro\wp-content\plugins\woocommerce\includes\wc-core-functions.php(178): load_template('C:\\www\\lamaro\\w...', false)
+#7 C:\www\lamaro\wp-content\plugins\woocommerce\templates\archive-product.php(72): wc_get_template_par in C:\www\lamaro\wp-includes\plugin.php on line 176
+
+2018-12-26T02:58:00+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function apply_filters(), 1 passed in C:\www\lamaro\wp-content\themes\lamaro\inc\woocommerce.php on line 90 and exactly 2 expected in C:\www\lamaro\wp-includes\plugin.php:176
+Stack trace:
+#0 C:\www\lamaro\wp-content\themes\lamaro\inc\woocommerce.php(90): apply_filters('woocommerce_loo...')
+#1 C:\www\lamaro\wp-includes\class-wp-hook.php(286): lamaro_woocommerce_item_wrapper_start('')
+#2 C:\www\lamaro\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 C:\www\lamaro\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#4 C:\www\lamaro\wp-content\plugins\woocommerce\templates\content-product.php(42): do_action('woocommerce_bef...')
+#5 C:\www\lamaro\wp-includes\template.php(690): require('C:\\www\\lamaro\\w...')
+#6 C:\www\lamaro\wp-content\plugins\woocommerce\includes\wc-core-functions.php(178): load_template('C:\\www\\lamaro\\w...', false)
+#7 C:\www\lamaro\wp-content\plugins\woocommerce\templates\archive-product.php(72): wc_get_template_par in C:\www\lamaro\wp-includes\plugin.php on line 176
+
+2018-12-26T03:39:51+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\www\lamaro\wp-content\themes\lamaro\inc\woocommerce.php:100
+Stack trace:
+#0 C:\www\lamaro\wp-includes\class-wp-hook.php(286): lamaro_woocommerce_item_wrapper_end('')
+#1 C:\www\lamaro\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\www\lamaro\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\www\lamaro\wp-content\plugins\woocommerce\templates\content-product.php(65): do_action('woocommerce_aft...')
+#4 C:\www\lamaro\wp-includes\template.php(690): require('C:\\www\\lamaro\\w...')
+#5 C:\www\lamaro\wp-content\plugins\woocommerce\includes\wc-core-functions.php(178): load_template('C:\\www\\lamaro\\w...', false)
+#6 C:\www\lamaro\wp-content\plugins\woocommerce\templates\archive-product.php(72): wc_get_template_part('content', 'product')
+#7 C:\www\lamaro\wp-includes\template-loader.php(74): include('C:\\www\\lamaro\\w...')
+#8 C:\www\lamaro\wp-blog-header.php(19): require_once('C:\\www\\lamaro\\w...')
+#9 C:\www\lam in C:\www\lamaro\wp-content\themes\lamaro\inc\woocommerce.php on line 100
+
+2018-12-26T03:39:59+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\www\lamaro\wp-content\themes\lamaro\inc\woocommerce.php:100
+Stack trace:
+#0 C:\www\lamaro\wp-includes\class-wp-hook.php(286): lamaro_woocommerce_item_wrapper_end('')
+#1 C:\www\lamaro\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\www\lamaro\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\www\lamaro\wp-content\plugins\woocommerce\templates\content-product.php(65): do_action('woocommerce_aft...')
+#4 C:\www\lamaro\wp-includes\template.php(690): require('C:\\www\\lamaro\\w...')
+#5 C:\www\lamaro\wp-content\plugins\woocommerce\includes\wc-core-functions.php(178): load_template('C:\\www\\lamaro\\w...', false)
+#6 C:\www\lamaro\wp-content\plugins\woocommerce\templates\archive-product.php(72): wc_get_template_part('content', 'product')
+#7 C:\www\lamaro\wp-includes\template-loader.php(74): include('C:\\www\\lamaro\\w...')
+#8 C:\www\lamaro\wp-blog-header.php(19): require_once('C:\\www\\lamaro\\w...')
+#9 C:\www\lam in C:\www\lamaro\wp-content\themes\lamaro\inc\woocommerce.php on line 100
+
+2018-12-26T05:02:20+00:00 CRITICAL Cannot declare class WPBakeryShortCode_like_sc_content_width, because the name is already in use in C:\www\lamaro\wp-content\plugins\lt-ext\shortcodes\ripples\ripples.php on line 58
+
+2018-12-26T05:02:20+00:00 CRITICAL Cannot declare class WPBakeryShortCode_like_sc_content_width, because the name is already in use in C:\www\lamaro\wp-content\plugins\lt-ext\shortcodes\ripples\ripples.php on line 58
+
+2018-12-26T05:02:21+00:00 CRITICAL Cannot declare class WPBakeryShortCode_like_sc_content_width, because the name is already in use in C:\www\lamaro\wp-content\plugins\lt-ext\shortcodes\ripples\ripples.php on line 58
+
+2018-12-26T23:14:35+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in C:\www\lamaro\wp-content\themes\lamaro\inc\template-parts.php on line 608
+

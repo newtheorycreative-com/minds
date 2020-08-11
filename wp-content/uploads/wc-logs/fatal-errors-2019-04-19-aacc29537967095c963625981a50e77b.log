@@ -1,0 +1,149 @@
+2019-04-19T17:57:34+00:00 CRITICAL Uncaught Error: Call to undefined function like_vc_inited() in C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\menu.php:55
+Stack trace:
+#0 C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\shortcodes.php(64): include_once()
+#1 C:\www\brewis\wp-includes\class-wp-hook.php(286): ltxthemes_sc_init('')
+#2 C:\www\brewis\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(Object(Envato_Market_Github), Array)
+#3 C:\www\brewis\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#4 C:\www\brewis\wp-settings.php(489): do_action('after_setup_the...')
+#5 C:\www\brewis\wp-config.php(89): require_once('C:\\www\\brewis\\w...')
+#6 C:\www\brewis\wp-load.php(37): require_once('C:\\www\\brewis\\w...')
+#7 C:\www\brewis\wp-admin\admin.php(34): require_once('C:\\www\\brewis\\w...')
+#8 C:\www\brewis\wp-admin\post.php(12): require_once('C:\\www\\brewis\\w...')
+#9 {main}
+  thrown in C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\menu.php on line 55
+
+2019-04-19T17:57:34+00:00 CRITICAL Uncaught Error: Call to undefined function like_vc_inited() in C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\menu.php:55
+Stack trace:
+#0 C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\shortcodes.php(64): include_once()
+#1 C:\www\brewis\wp-includes\class-wp-hook.php(286): ltxthemes_sc_init('')
+#2 C:\www\brewis\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(Object(Envato_Market_Github), Array)
+#3 C:\www\brewis\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#4 C:\www\brewis\wp-settings.php(489): do_action('after_setup_the...')
+#5 C:\www\brewis\wp-config.php(89): require_once('C:\\www\\brewis\\w...')
+#6 C:\www\brewis\wp-load.php(37): require_once('C:\\www\\brewis\\w...')
+#7 C:\www\brewis\wp-admin\admin-ajax.php(22): require_once('C:\\www\\brewis\\w...')
+#8 {main}
+  thrown in C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\menu.php on line 55
+
+2019-04-19T17:58:16+00:00 CRITICAL Uncaught Error: Call to undefined function likeGetPluginUrl() in C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\menu.php:69
+Stack trace:
+#0 C:\www\brewis\wp-includes\class-wp-hook.php(286): ltx_vc_menu_add('')
+#1 C:\www\brewis\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\www\brewis\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\www\brewis\wp-content\plugins\js_composer\js_composer.php(245): do_action('vc_before_init')
+#4 C:\www\brewis\wp-includes\class-wp-hook.php(286): Vc_Manager->init('')
+#5 C:\www\brewis\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 C:\www\brewis\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#7 C:\www\brewis\wp-settings.php(505): do_action('init')
+#8 C:\www\brewis\wp-config.php(89): require_once('C:\\www\\brewis\\w...')
+#9 C:\www\brewis\wp-load.php(37): require_once('C:\\www\\brewis\\w...')
+#10 C:\www\brewis\wp-admin\admin.php(34): require_once('C:\\www\\brewis\\w...')
+#11 C:\www\brewis\wp-admin\p in C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\menu.php on line 69
+
+2019-04-19T17:58:41+00:00 CRITICAL Uncaught Error: Call to undefined function likeGetMenuCats() in C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\menu.php:11
+Stack trace:
+#0 C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\menu.php(74): ltx_vc_menu_params()
+#1 C:\www\brewis\wp-includes\class-wp-hook.php(286): ltx_vc_menu_add('')
+#2 C:\www\brewis\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\www\brewis\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#4 C:\www\brewis\wp-content\plugins\js_composer\js_composer.php(245): do_action('vc_before_init')
+#5 C:\www\brewis\wp-includes\class-wp-hook.php(286): Vc_Manager->init('')
+#6 C:\www\brewis\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 C:\www\brewis\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#8 C:\www\brewis\wp-settings.php(505): do_action('init')
+#9 C:\www\brewis\wp-config.php(89): require_once('C:\\www\\brewis\\w...')
+#10 C:\www\brewis\wp-load.php(37): require_once('C:\\www\\brewis\\w...')
+#11 C:\www\bre in C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\menu.php on line 11
+
+2019-04-19T17:58:48+00:00 CRITICAL Uncaught Error: Call to undefined function ltxGetMenuCats() in C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\menu.php:11
+Stack trace:
+#0 C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\menu.php(74): ltx_vc_menu_params()
+#1 C:\www\brewis\wp-includes\class-wp-hook.php(286): ltx_vc_menu_add('')
+#2 C:\www\brewis\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 C:\www\brewis\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#4 C:\www\brewis\wp-content\plugins\js_composer\js_composer.php(245): do_action('vc_before_init')
+#5 C:\www\brewis\wp-includes\class-wp-hook.php(286): Vc_Manager->init('')
+#6 C:\www\brewis\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 C:\www\brewis\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#8 C:\www\brewis\wp-settings.php(505): do_action('init')
+#9 C:\www\brewis\wp-config.php(89): require_once('C:\\www\\brewis\\w...')
+#10 C:\www\brewis\wp-load.php(37): require_once('C:\\www\\brewis\\w...')
+#11 C:\www\brew in C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\menu.php on line 11
+
+2019-04-19T17:59:31+00:00 CRITICAL Uncaught Error: Call to undefined function ltx_sc_atts_parse() in C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\menu.php:48
+Stack trace:
+#0 C:\www\brewis\wp-includes\shortcodes.php(325): ltx_sc_menu(Array, '', 'ltx_sc_menu')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\www\brewis\wp-includes\shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(like_s...', 'do_shortcode_ta...', '[like_sc_empty_...')
+#3 C:\www\brewis\wp-content\plugins\js_composer\include\helpers\helpers.php(236): do_shortcode('[like_sc_empty_...')
+#4 C:\www\brewis\wp-content\plugins\js_composer\include\templates\shortcodes\vc_column.php(94): wpb_js_remove_wpautop('[like_sc_empty_...')
+#5 C:\www\brewis\wp-content\plugins\js_composer\include\classes\shortcodes\shortcodes.php(478): include('C:\\www\\brewis\\w...')
+#6 C:\www\brewis\wp-content\plugins\js_composer\include\classes\shortcodes\shortcodes.php(458): WPBakeryShortCode->loadTemplate(Array, '[like_sc_empty_...')
+#7 C:\www\brewis\wp-content\plugins\js_composer\include\cl in C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\menu.php on line 48
+
+2019-04-19T18:04:12+00:00 CRITICAL Uncaught Error: Call to undefined function ltx_sc_atts_parse() in C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\menu.php:48
+Stack trace:
+#0 C:\www\brewis\wp-includes\shortcodes.php(325): ltx_sc_menu(Array, '', 'ltx_sc_menu')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\www\brewis\wp-includes\shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(like_s...', 'do_shortcode_ta...', '[like_sc_empty_...')
+#3 C:\www\brewis\wp-content\plugins\js_composer\include\helpers\helpers.php(236): do_shortcode('[like_sc_empty_...')
+#4 C:\www\brewis\wp-content\plugins\js_composer\include\templates\shortcodes\vc_column.php(94): wpb_js_remove_wpautop('[like_sc_empty_...')
+#5 C:\www\brewis\wp-content\plugins\js_composer\include\classes\shortcodes\shortcodes.php(478): include('C:\\www\\brewis\\w...')
+#6 C:\www\brewis\wp-content\plugins\js_composer\include\classes\shortcodes\shortcodes.php(458): WPBakeryShortCode->loadTemplate(Array, '[like_sc_empty_...')
+#7 C:\www\brewis\wp-content\plugins\js_composer\include\cl in C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\menu.php on line 48
+
+2019-04-19T18:04:19+00:00 CRITICAL Uncaught Error: Call to undefined function ltx_sc_atts_parse() in C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\menu.php:48
+Stack trace:
+#0 C:\www\brewis\wp-includes\shortcodes.php(325): ltx_sc_menu(Array, '', 'ltx_sc_menu')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\www\brewis\wp-includes\shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(like_s...', 'do_shortcode_ta...', '[like_sc_empty_...')
+#3 C:\www\brewis\wp-content\plugins\js_composer\include\helpers\helpers.php(236): do_shortcode('[like_sc_empty_...')
+#4 C:\www\brewis\wp-content\plugins\js_composer\include\templates\shortcodes\vc_column.php(94): wpb_js_remove_wpautop('[like_sc_empty_...')
+#5 C:\www\brewis\wp-content\plugins\js_composer\include\classes\shortcodes\shortcodes.php(478): include('C:\\www\\brewis\\w...')
+#6 C:\www\brewis\wp-content\plugins\js_composer\include\classes\shortcodes\shortcodes.php(458): WPBakeryShortCode->loadTemplate(Array, '[like_sc_empty_...')
+#7 C:\www\brewis\wp-content\plugins\js_composer\include\cl in C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\menu.php on line 48
+
+2019-04-19T18:04:46+00:00 CRITICAL Uncaught Error: Call to undefined function ltx_sc_output() in C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\menu.php:56
+Stack trace:
+#0 C:\www\brewis\wp-includes\shortcodes.php(325): ltx_sc_menu(Array, '', 'ltx_sc_menu')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\www\brewis\wp-includes\shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(like_s...', 'do_shortcode_ta...', '[like_sc_empty_...')
+#3 C:\www\brewis\wp-content\plugins\js_composer\include\helpers\helpers.php(236): do_shortcode('[like_sc_empty_...')
+#4 C:\www\brewis\wp-content\plugins\js_composer\include\templates\shortcodes\vc_column.php(94): wpb_js_remove_wpautop('[like_sc_empty_...')
+#5 C:\www\brewis\wp-content\plugins\js_composer\include\classes\shortcodes\shortcodes.php(478): include('C:\\www\\brewis\\w...')
+#6 C:\www\brewis\wp-content\plugins\js_composer\include\classes\shortcodes\shortcodes.php(458): WPBakeryShortCode->loadTemplate(Array, '[like_sc_empty_...')
+#7 C:\www\brewis\wp-content\plugins\js_composer\include\classe in C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\menu.php on line 56
+
+2019-04-19T18:04:57+00:00 CRITICAL Uncaught Error: Call to undefined function coffeeking_cut_text() in C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\view.php:61
+Stack trace:
+#0 C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\shortcodes.php(576): include()
+#1 C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\menu.php(56): like_sc_output('menu', Array, '')
+#2 C:\www\brewis\wp-includes\shortcodes.php(325): ltx_sc_menu(Array, '', 'ltx_sc_menu')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 C:\www\brewis\wp-includes\shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(like_s...', 'do_shortcode_ta...', '[like_sc_empty_...')
+#5 C:\www\brewis\wp-content\plugins\js_composer\include\helpers\helpers.php(236): do_shortcode('[like_sc_empty_...')
+#6 C:\www\brewis\wp-content\plugins\js_composer\include\templates\shortcodes\vc_column.php(94): wpb_js_remove_wpautop('[like_sc_empty_...')
+#7 C:\www\brewis\wp-content\plugins\js_composer\include\classes\shortcodes\shortcodes.php(478): include('C:\\www\\brewis\\w...')
+#8 C:\www\brewis\wp-c in C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\menu\view.php on line 61
+
+2019-04-19T19:46:14+00:00 CRITICAL syntax error, unexpected 'die' (T_EXIT) in C:\www\brewis\wp-content\themes\brewis\inc\theme-style\theme-style.php on line 166
+
+2019-04-19T19:50:47+00:00 CRITICAL syntax error, unexpected 'die' (T_EXIT) in C:\www\brewis\wp-content\themes\brewis\inc\hooks.php on line 166
+
+2019-04-19T23:52:46+00:00 CRITICAL syntax error, unexpected '&&' (T_BOOLEAN_AND) in C:\www\brewis\wp-content\themes\brewis\inc\woocommerce.php on line 142
+
+2019-04-19T23:52:51+00:00 CRITICAL syntax error, unexpected '&&' (T_BOOLEAN_AND) in C:\www\brewis\wp-content\themes\brewis\inc\woocommerce.php on line 142
+
+2019-04-19T23:55:04+00:00 CRITICAL Uncaught Error: Call to undefined function is_product_sc() in C:\www\brewis\wp-content\themes\brewis\inc\woocommerce.php:142
+Stack trace:
+#0 C:\www\brewis\wp-includes\class-wp-hook.php(286): brewis_woocommerce_title_wrapper_end('')
+#1 C:\www\brewis\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\www\brewis\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\products\view.php(198): do_action('woocommerce_aft...')
+#4 C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\shortcodes.php(576): include('C:\\www\\brewis\\w...')
+#5 C:\www\brewis\wp-content\plugins\lt-ext\shortcodes\products\products.php(134): like_sc_output('products', Array, '')
+#6 C:\www\brewis\wp-includes\shortcodes.php(325): like_sc_products(Array, '', 'like_sc_product...')
+#7 [internal function]: do_shortcode_tag(Array)
+#8 C:\www\brewis\wp-includes\shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(like_s...', 'do_shortcode_ta...', '[like_sc_empty_...')
+#9 C:\w in C:\www\brewis\wp-content\themes\brewis\inc\woocommerce.php on line 142
+

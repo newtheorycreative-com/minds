@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2019 by original authors @ fontello.com</metadata>
+<defs>
+<font id="ltx-font" horiz-adv-x="1000" >
+<font-face font-family="ltx-font" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="arrow" unicode="&#xe80c;" d="M756 370l-472 472c-11 11-29 11-40 0s-11-29 0-40l452-452-452-452c-11-11-11-29 0-40 6-5 13-8 20-8 7 0 15 3 20 8l472 472c11 11 11 29 0 40z" horiz-adv-x="1000" />
+
+<glyph glyph-name="share" unicode="&#xe80d;" d="M792 208c-57 0-108-28-141-70l-275 153c7 19 10 39 10 59 0 21-3 41-10 59l274 154c33-43 84-71 142-71 99 0 179 81 179 179s-80 179-179 179-179-80-179-179c0-20 4-40 11-59l-275-153c-32 43-84 70-142 70-98 0-178-80-178-179s80-179 179-179c57 0 109 28 142 71l274-154c-6-18-10-38-10-59 0-99 80-179 179-179s178 80 178 179-80 179-179 179z m0 586c68 0 123-55 123-123s-55-123-123-123-122 55-122 123 55 123 122 123z m-584-566c-68 0-123 55-123 122s55 123 123 123 122-55 122-123-55-122-122-122z m584-322c-67 0-122 55-122 123 0 68 55 123 122 123s123-55 123-123c0-68-55-123-123-123z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>

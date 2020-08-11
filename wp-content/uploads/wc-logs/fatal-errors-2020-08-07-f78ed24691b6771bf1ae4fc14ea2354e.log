@@ -1,0 +1,2 @@
+2020-08-07T17:46:18+00:00 CRITICAL Cannot redeclare yp_get_uri() (previously declared in /Applications/MAMP/htdocs/minds/wp-content/plugins/yellow-pencil-visual-theme-customizer/yellow-pencil.php:56) in /Applications/MAMP/htdocs/minds/wp-content/plugins/waspthemes-yellow-pencil/yellow-pencil.php on line 54
+
