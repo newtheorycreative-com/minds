@@ -1,0 +1,11 @@
+2020-08-11T22:50:55+00:00 CRITICAL Uncaught Error: Call to a member function to_array() on null in /Applications/MAMP/htdocs/minds/wp-content/plugins/contact-form-7/includes/rest-api.php:397
+Stack trace:
+#0 [internal function]: {closure}(Object(WPCF7_FormTag))
+#1 /Applications/MAMP/htdocs/minds/wp-content/plugins/contact-form-7/includes/rest-api.php(401): array_map(Object(Closure), Array)
+#2 /Applications/MAMP/htdocs/minds/wp-content/plugins/contact-form-7/includes/rest-api.php(262): wpcf7_get_properties_for_api(Object(WPCF7_ContactForm))
+#3 /Applications/MAMP/htdocs/minds/wp-includes/rest-api/class-wp-rest-server.php(1015): wpcf7_rest_update_contact_form(Object(WP_REST_Request))
+#4 /Applications/MAMP/htdocs/minds/wp-includes/rest-api/class-wp-rest-server.php(342): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#5 /Applications/MAMP/htdocs/minds/wp-includes/rest-api.php(312): WP_REST_Server->serve_request('/contact-form-7...')
+#6 /Applications/MAMP/htdocs/minds/wp-includes/class-wp-hook.php(287): rest_api_loaded(Object(WP))
+#7 /Applications in /Applications/MAMP/htdocs/minds/wp-content/plugins/contact-form-7/includes/rest-api.php on line 397
+
